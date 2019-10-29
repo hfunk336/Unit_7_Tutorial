@@ -46,7 +46,7 @@ section#topics{
 section#topics article{
    -webkit-flex: 1 1 200px;
    flex: 1 1 200px;
-}
+} 
 
 /* =========================
    Mobile Styles: 0 to 480px 
